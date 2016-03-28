@@ -1,0 +1,105 @@
+[submodule "aleut.objects.list-ui"]
+	path = aleut.objects.list-ui
+	url = git@github.com:aleutcss/objects.list-ui.git
+[submodule "aleut.objects.tables"]
+	path = aleut.objects.tables
+	url = git@github.com:aleutcss/objects.tables.git
+[submodule "aleut.utilities.widths-responsive"]
+	path = aleut.utilities.widths-responsive
+	url = git@github.com:aleutcss/utilities.widths-responsive.git
+[submodule "aleut.utilities.spacing-responsive"]
+	path = aleut.utilities.spacing-responsive
+	url = git@github.com:aleutcss/utilities.spacing-responsive.git
+[submodule "aleut.utilities.spacing"]
+	path = aleut.utilities.spacing
+	url = git@github.com:aleutcss/utilities.spacing.git
+[submodule "aleut.generic.reset"]
+	path = aleut.generic.reset
+	url = git@github.com:aleutcss/generic.reset.git
+[submodule "aleut.tools.responsive"]
+	path = aleut.tools.responsive
+	url = git@github.com:aleutcss/tools.responsive.git
+[submodule "aleut.objects.pack"]
+	path = aleut.objects.pack
+	url = git@github.com:aleutcss/objects.pack.git
+[submodule "aleut.utilities.widths"]
+	path = aleut.utilities.widths
+	url = git@github.com:aleutcss/utilities.widths.git
+[submodule "aleut.utilities.clearfix"]
+	path = aleut.utilities.clearfix
+	url = git@github.com:aleutcss/utilities.clearfix.git
+[submodule "aleut.utilities.headings"]
+	path = aleut.utilities.headings
+	url = git@github.com:aleutcss/utilities.headings.git
+[submodule "aleut.utilities.print"]
+	path = aleut.utilities.print
+	url = git@github.com:aleutcss/utilities.print.git
+[submodule "aleut.objects.media"]
+	path = aleut.objects.media
+	url = git@github.com:aleutcss/objects.media.git
+[submodule "aleut.objects.tabs"]
+	path = aleut.objects.tabs
+	url = git@github.com:aleutcss/objects.tabs.git
+[submodule "aleut.objects.flag"]
+	path = aleut.objects.flag
+	url = git@github.com:aleutcss/objects.flag.git
+[submodule "aleut.objects.box"]
+	path = aleut.objects.box
+	url = git@github.com:aleutcss/objects.box.git
+[submodule "aleut.objects.buttons"]
+	path = aleut.objects.buttons
+	url = git@github.com:aleutcss/objects.buttons.git
+[submodule "aleut.objects.list-block"]
+	path = aleut.objects.list-block
+	url = git@github.com:aleutcss/objects.list-block.git
+[submodule "aleut.objects.list-inline"]
+	path = aleut.objects.list-inline
+	url = git@github.com:aleutcss/objects.list-inline.git
+[submodule "aleut.objects.block"]
+	path = aleut.objects.block
+	url = git@github.com:aleutcss/objects.block.git
+[submodule "aleut.objects.layout"]
+	path = aleut.objects.layout
+	url = git@github.com:aleutcss/objects.layout.git
+[submodule "aleut.objects.list-bare"]
+	path = aleut.objects.list-bare
+	url = git@github.com:aleutcss/objects.list-bare.git
+[submodule "aleut.tools.widths"]
+	path = aleut.tools.widths
+	url = git@github.com:aleutcss/tools.widths.git
+[submodule "aleut.settings.defaults"]
+	path = aleut.settings.defaults
+	url = git@github.com:aleutcss/settings.defaults.git
+[submodule "aleut.generic.box-sizing"]
+	path = aleut.generic.box-sizing
+	url = git@github.com:aleutcss/generic.box-sizing.git
+[submodule "aleut.generic.normalize"]
+	path = aleut.generic.normalize
+	url = git@github.com:aleutcss/generic.normalize.git
+[submodule "aleut.base.page"]
+	path = aleut.base.page
+	url = git@github.com:aleutcss/base.page.git
+[submodule "aleut.settings.responsive"]
+	path = aleut.settings.responsive
+	url = git@github.com:aleutcss/settings.responsive.git
+[submodule "aleut.base.headings"]
+	path = aleut.base.headings
+	url = git@github.com:aleutcss/base.headings.git
+[submodule "aleut.tools.mixins"]
+	path = aleut.tools.mixins
+	url = git@github.com:aleutcss/tools.mixins.git
+[submodule "aleut.generic.shared"]
+	path = aleut.generic.shared
+	url = git@github.com:aleutcss/generic.shared.git
+[submodule "aleut.tools.functions"]
+	path = aleut.tools.functions
+	url = git@github.com:aleutcss/tools.functions.git
+[submodule "aleut.base.lists"]
+	path = aleut.base.lists
+	url = git@github.com:aleutcss/base.lists.git
+[submodule "aleut.base.images"]
+	path = aleut.base.images
+	url = git@github.com:aleutcss/base.images.git
+[submodule "aleut.tools.clearfix"]
+	path = aleut.tools.clearfix
+	url = git@github.com:aleutcss/tools.clearfix.git
