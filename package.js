@@ -2,7 +2,7 @@ Package.describe({
   name: 'tiush:aleutcss',
   version: '1.0.0',
   summary: 'Aleut is a fork of inuitcss. It is a powerful, Sass-based, BEM, OOCSS framework.',
-  git: 'https://github.com/TiuSh/meteor-aleutcss.git'
+  git: 'https://github.com/aleutcss/meteor.git',
 });
 
 Package.onUse(function(api) {
